@@ -5,10 +5,12 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Contact](#contact)
 - [Deployed URL](#deployed-url)
 
 ## Description 
 Writing about tech can be just as important as making it. Most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies.
+
 The main objective of this project is to build a CMS-style blog site, in which developers can publish their blog posts and comment on other developers’ posts as well. 
 
 This site follows the MVC paradigm in its architectural structure, using `Handlebars.js` as the templating language, `Sequelize` as the ORM, and the `express-session npm package` for authentication.
@@ -41,5 +43,13 @@ This blog serves as an educational and networking platform for individuals in th
 
 ## License 
 Please refer to the LICENSE listed in the repo. 
+
+## Contact
+Contact
+For any questions about this project, you can contact me at:
+
+GitHub: http://github.com/ima2132
+
+Email: ima2132@columbia.edu
 
 ## Deployed URL 
