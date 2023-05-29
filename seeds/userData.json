@@ -3,11 +3,13 @@
       "name": "Walter White",
       "email": "thechemwiz@gmail.com",
       "password": "heisenberg"
+      
     },
     {
       "name": "Jesse Pinkman",
       "email": "pinkmantheg@gmail.com",
       "password": "jesserules"
+
     }
   ]
   
