@@ -8,10 +8,36 @@
 - [Deployed URL](#deployed-url)
 
 ## Description 
+Writing about tech can be just as important as making it. Most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies.
+The main objective of this project is to build a CMS-style blog site, in which developers can publish their blog posts and comment on other developers’ posts as well. 
+
+This site follows the MVC paradigm in its architectural structure, using `Handlebars.js` as the templating language, `Sequelize` as the ORM, and the `express-session npm package` for authentication.
 
 ## Installation 
+To run the application, you will need to have `VS Code` and `Node.js` installed. First, clone my repo. You will then need to install dependencies in order to use Tech Blog.
+
+Run the following command in your terminal:
+
+`npm install`
+
+This will install the necessary dependencies to utilize this application.
+
+After installing the necessary dependencies, it is required to seed your database with initial data to properly run the application using the `SQL` schema. This can be achieved by executing the following commands:
+
+`mysql -u root -p <db/schema.sql`
+
+`mysql -u root -p <db/seeds.sql`
+
+After you have initialized your database, run the following command to seed: 
+
+`npm run seed`
+
+You can then start the application by running the command `npm start`.
+
+* Alternatively, you can use the deployed website by clicking on this link: 
 
 ## Usage
+This blog serves as an educational and networking platform for individuals in the tech industry. It provides an avenue for people to engage in discussions, share insights, and educate others through their posts and comments.
 
 ## License 
 Please refer to the LICENSE listed in the repo. 
