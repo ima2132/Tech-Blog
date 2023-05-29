@@ -9,14 +9,14 @@
 - [Deployed URL](#deployed-url)
 
 ## Description 
-Writing about tech can be just as important as making it. Most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies.
+Writing about tech can be just as important as making it. Most developers spend some of their time reading and writing about technical concepts, recent advancements, and new technologies.
 
 The main objective of this project is to build a CMS-style blog site, in which developers can publish their blog posts and comment on other developers’ posts as well. 
 
 TechTalks follows the MVC paradigm in its architectural structure, using `Handlebars.js` as the templating language, `Sequelize` as the ORM, and the `express-session npm package` for authentication.
 
 ## Installation 
-To run the application, you will need to have `VS Code` and `Node.js` installed. First, clone my repo. You will then need to install dependencies in order to use TechTalks.
+To run the application, you will need to have `VS Code` and `Node.js` installed. First, clone the repo. You will then need to install dependencies in order to use TechTalks.
 
 Run the following command in your terminal:
 
@@ -34,7 +34,7 @@ After you have initialized your database, run the following command to seed:
 
 `npm run seed`
 
-You can then start the application by running the command `npm start`.
+You can then start TechTalks by running the command `npm start`.
 
 * Alternatively, you can use the deployed website by clicking on this link: 
 
