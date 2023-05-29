@@ -13,10 +13,10 @@ Writing about tech can be just as important as making it. Most developers also s
 
 The main objective of this project is to build a CMS-style blog site, in which developers can publish their blog posts and comment on other developers’ posts as well. 
 
-This site follows the MVC paradigm in its architectural structure, using `Handlebars.js` as the templating language, `Sequelize` as the ORM, and the `express-session npm package` for authentication.
+TechTalks follows the MVC paradigm in its architectural structure, using `Handlebars.js` as the templating language, `Sequelize` as the ORM, and the `express-session npm package` for authentication.
 
 ## Installation 
-To run the application, you will need to have `VS Code` and `Node.js` installed. First, clone my repo. You will then need to install dependencies in order to use Tech Blog.
+To run the application, you will need to have `VS Code` and `Node.js` installed. First, clone my repo. You will then need to install dependencies in order to use TechTalks.
 
 Run the following command in your terminal:
 
