@@ -1,2 +1,19 @@
-
+[
+    {
+      "title": "Introduction to Artificial Intelligence",
+      "description": "In this blog post, we explore the basics of artificial intelligence (AI) and its applications in various industries. We discuss machine learning, neural networks, and what the future of AI technology in the job market.",
+      "user_id": 1
+    },
+    {
+      "title": "Web Development Trends in 2023",
+      "description": "Discover the latest web development trends that are shaping the industry in 2023. We delve into topics such as progressive web apps (PWA), serverless architecture, and UI/UX design.",
+      "user_id": 2
+    },
+    {
+      "title": "Data Privacy and Security in A Seemingly Digital World",
+      "description": "As technology advances, safeguarding data privacy becomes imperative. In this blog post, we discuss the challenges of data security, encryption methods, and best practices for protecting confidential information.",
+      "user_id": 1
+    }
+  ]
+  
   
