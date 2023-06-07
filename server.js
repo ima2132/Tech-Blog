@@ -19,8 +19,7 @@ const sess = {
     maxAge: 86400000, // set to 1 day (24 hours) in milliseconds
     httpOnly: true,
     secure: false,
-    sameSite: 'strict',
-      },
+    sameSite: 'strict'
   },
   resave: false,
   saveUninitialized: true,
