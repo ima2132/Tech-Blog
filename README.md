@@ -22,11 +22,9 @@ Run the following command in your terminal:
 
 This will install the necessary dependencies to utilize this application.
 
-After installing the necessary dependencies, it is required to seed your database with initial data to properly run the application using the `SQL` schema. This can be achieved by executing the following commands:
+After installing the necessary dependencies, it is required to seed your database with initial data to properly run the application using the `SQL` schema. This can be achieved by executing the following command:
 
 `mysql -u root -p <db/schema.sql`
-
-`mysql -u root -p <db/seeds.sql`
 
 After you have initialized your database, run the following command to seed: 
 
